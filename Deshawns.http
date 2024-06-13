@@ -1,0 +1,6 @@
+@Deshawns_HostAddress = http://localhost:5238
+
+GET {{Deshawns_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
